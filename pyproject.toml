@@ -1,12 +1,13 @@
 [tool.poetry]
 name = "2110101-com-prog"
 version = "0.0.0"
-description = "CU Intania 106 CP"
+description = "This repository contains everything related to 2110101 COM PROG."
 authors = ["Nutthapat Pongtanyavichai <59821765+Leomotors@users.noreply.github.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+autopep8 = "^1.7.0"
 
 [tool.poetry.dev-dependencies]
 
