@@ -8,7 +8,7 @@
 
 - [ ] 02-StrLst_★★_AddVector
 - [ ] 02-StrLst_★★★_Decryption
-- [ ] 02-StrLst_★★★_Decimal2Fraction
+- [x] 02-StrLst_★★★_Decimal2Fraction
 - [ ] 02-StrLst_★★_AddVector (Function)
 
 - [x] 03_If_★_RegisteredMail
