@@ -4,9 +4,9 @@
 - [x] 01_Expr_★★_Body_Surface_Area
 - [x] 01_Expr_★★★_Duration
 - [x] 01_Expr_★_Body_Surface_Area (Function)
-- [ ] 01_Expr_★★_Cube_Root (Function)
+- [x] 01_Expr_★★_Cube_Root (Function)
 
-- [ ] 02-StrLst_★★_AddVector
+- [x] 02-StrLst_★★_AddVector
 - [ ] 02-StrLst_★★★_Decryption
 - [x] 02-StrLst_★★★_Decimal2Fraction
 - [x] 02-StrLst_★★_AddVector (Function)
