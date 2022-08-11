@@ -7,7 +7,7 @@
 - [x] 01_Expr_★★_Cube_Root (Function)
 
 - [x] 02-StrLst_★★_AddVector
-- [ ] 02-StrLst_★★★_Decryption
+- [x] 02-StrLst_★★★_Decryption
 - [x] 02-StrLst_★★★_Decimal2Fraction
 - [x] 02-StrLst_★★_AddVector (Function)
 
