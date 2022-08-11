@@ -1,13 +1,13 @@
 from math import log10 as ลอกฐาน๑๐, sqrt as รากที่สอง
 
 
-def ඞ(ก): return float(ก)
-
-
 จำนวนจุดลอยตัว = float
 เมธอดแบบคงที่ = staticmethod
 พิมพ์สู่เอสทีดีเอาท์ = print
 ข้อมูลนำเข้าจากเอสทีดีอิน = input
+
+
+def ඞ(ก): return จำนวนจุดลอยตัว(ก)
 
 
 class สูตรคำนวณอะไรไม่รู้ผมเกลียดชีวะ:
