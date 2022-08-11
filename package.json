@@ -5,7 +5,7 @@
   "scripts": {
     "gen": "ts-node web/.vitepress/generate.ts",
     "dev": "vitepress dev web",
-    "build": "vitepress build web"
+    "build": "pnpm gen && vitepress build web"
   },
   "devDependencies": {
     "@leomotors/cocoa-vitepress-theme": "^1.0.2",
