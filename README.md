@@ -12,4 +12,4 @@ In this repository, you will see: โค้ด คุ ณ ภ า พ
 
 ### Average plagiarist:
 
-![](https://c.tenor.com/Fs9txj8k2HoAAAAC/fraz-bradford.gif)
+![](https://c.tenor.com/Fs9txj8k2HoAAAAd/fraz-bradford.gif)
