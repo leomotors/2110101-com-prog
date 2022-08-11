@@ -2,7 +2,7 @@
 
 - [x] 01_Expr_★_Stirling_Factorial
 - [x] 01_Expr_★★_Body_Surface_Area
-- [ ] 01_Expr_★★★_Duration
+- [x] 01_Expr_★★★_Duration
 - [x] 01_Expr_★_Body_Surface_Area (Function)
 - [ ] 01_Expr_★★_Cube_Root (Function)
 
