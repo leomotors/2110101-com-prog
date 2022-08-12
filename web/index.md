@@ -2,6 +2,7 @@
 layout: home
 
 title: Com Prog
+titleTemplate: Com Prog
 
 hero:
   name: Com Prog
@@ -14,6 +15,9 @@ hero:
     - theme: alt
       text: View on GitHub
       link: https://github.com/Leomotors/2110101-com-prog
+    - theme: alt
+      text: With Description
+      link: https://com-pog.leomotors.me
 
 features:
   - icon: 🧑‍💻

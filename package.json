@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "gen": "ts-node web/.vitepress/generate.ts",
-    "dev": "vitepress dev web",
+    "dev": "vitepress dev web --port=3187",
     "build": "pnpm gen && vitepress build web"
   },
   "devDependencies": {
