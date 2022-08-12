@@ -17,10 +17,21 @@ In this repository, you will see: โค้ด คุ ณ ภ า พ
  </thead>
  <tbody>
   <td>
-    <p align="center"><img src="https://c.tenor.com/Fs9txj8k2HoAAAAd/fraz-bradford.gif" height=300 /></p>
+    <p align="center">
+      <img src="https://c.tenor.com/Fs9txj8k2HoAAAAd/fraz-bradford.gif" height=300 />
+    </p>
   </td>
   <td>
-    <p align="center"><img src="https://c.tenor.com/epNMHGvRyHcAAAAd/gigachad-chad.gif" height=300 /></p>
+    <p align="center">
+      <img src="https://c.tenor.com/epNMHGvRyHcAAAAd/gigachad-chad.gif" height=300 />
+    </p>
   </td>
  </tbody>
 </table>
+
+## other quality code
+
+**recap**: copying is for *weak* (asian accent)
+
+- [Nacnano/2110101-com-prog](https://github.com/Nacnano/2110101-com-prog)
+- [mark48853/2110101-com-prog](https://github.com/mark48853/2110101-com-prog)

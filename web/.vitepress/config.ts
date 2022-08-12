@@ -14,7 +14,7 @@ export default defineConfig({
       "link",
       {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Thai",
+        href: "https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Thai:r,i,b,bi",
       },
     ],
   ],
@@ -37,8 +37,12 @@ export default defineConfig({
         text: "Introduction",
         items: [
           {
-            text: "Index",
+            text: "Hello World",
             link: "/introduction/",
+          },
+          {
+            text: "เฉลยพร้อมคำอธิบาย",
+            link: "https://com-pog.leomotors.me",
           },
         ],
       },

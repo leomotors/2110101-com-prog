@@ -16,8 +16,14 @@ hero:
       text: View on GitHub
       link: https://github.com/Leomotors/2110101-com-prog
     - theme: alt
-      text: With Description
+      text: เฉลยพร้อมคำอธิบาย
       link: https://com-pog.leomotors.me
+    - theme: alt
+      text: กราบ Nacnano
+      link: https://github.com/Nacnano/2110101-com-prog
+    - theme: alt
+      text: กราบ mark48853
+      link: https://github.com/mark48853/2110101-com-prog
 
 features:
   - icon: 🧑‍💻
