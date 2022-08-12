@@ -12,6 +12,10 @@ async function createMd(file: string) {
     `
   # ${file}
 
+  ::: warning
+  โค้ดกาวมากครับ อย่าลอกเลย 😭😭😭
+  :::
+
   \`\`\`${ext == "hs" ? "haskell" : ext}
   ${(await fs.readFile(`grader/${file}`)).toString().trim()}
   \`\`\`

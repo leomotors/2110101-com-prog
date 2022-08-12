@@ -2,15 +2,15 @@ lockfileVersion: 5.4
 
 specifiers:
   '@leomotors/cocoa-vitepress-theme': ^1.0.2
-  '@types/node': ^18.7.1
+  '@types/node': ^18.7.2
   ts-node: ^10.9.1
   typescript: ^4.7.4
   vitepress: 1.0.0-alpha.4
 
 devDependencies:
   '@leomotors/cocoa-vitepress-theme': 1.0.2
-  '@types/node': 18.7.1
-  ts-node: 10.9.1_lep773egrlwq7kh77ngus6artu
+  '@types/node': 18.7.2
+  ts-node: 10.9.1_tyvfw3xlkeib37wbsln4bvkpbm
   typescript: 4.7.4
   vitepress: 1.0.0-alpha.4
 
@@ -236,8 +236,8 @@ packages:
     resolution: {integrity: sha512-yOlFc+7UtL/89t2ZhjPvvB/DeAr3r+Dq58IgzsFkOAvVC6NMJXmCGjbptdXdR9qsX7pKcTL+s87FtYREi2dEEQ==}
     dev: true
 
-  /@types/node/18.7.1:
-    resolution: {integrity: sha512-GKX1Qnqxo4S+Z/+Z8KKPLpH282LD7jLHWJcVryOflnsnH+BtSDfieR6ObwBMwpnNws0bUK8GI7z0unQf9bARNQ==}
+  /@types/node/18.7.2:
+    resolution: {integrity: sha512-ce7MIiaYWCFv6A83oEultwhBXb22fxwNOQf5DIxWA4WXvDQ7K+L0fbWl/YOfCzlR5B/uFkSnVBhPcOfOECcWvA==}
     dev: true
 
   /@types/web-bluetooth/0.0.14:
@@ -758,7 +758,7 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  /ts-node/10.9.1_lep773egrlwq7kh77ngus6artu:
+  /ts-node/10.9.1_tyvfw3xlkeib37wbsln4bvkpbm:
     resolution: {integrity: sha512-NtVysVPkxxrwFGUUxGYhfux8k78pQB3JqYBXlLRZgdGUqTO5wU/UyHop5p70iEbGhB7q5KmiZiU0Y3KlJrScEw==}
     hasBin: true
     peerDependencies:
@@ -777,7 +777,7 @@ packages:
       '@tsconfig/node12': 1.0.11
       '@tsconfig/node14': 1.0.3
       '@tsconfig/node16': 1.0.3
-      '@types/node': 18.7.1
+      '@types/node': 18.7.2
       acorn: 8.8.0
       acorn-walk: 8.2.0
       arg: 4.1.3

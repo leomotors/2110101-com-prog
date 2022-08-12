@@ -1,3 +1,5 @@
+# pylint: disable=no-self-argument
+
 from math import log10 as ลอกฐาน๑๐, sqrt as รากที่สอง
 
 
