@@ -24,6 +24,9 @@ hero:
     - theme: alt
       text: กราบ mark48853
       link: https://github.com/mark48853/2110101-com-prog
+    - theme: alt
+      text: กราบ shalluv
+      link: https://github.com/shalluv/2110101-com-prog
 
 features:
   - icon: 🧑‍💻
