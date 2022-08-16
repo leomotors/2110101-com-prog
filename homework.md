@@ -12,4 +12,4 @@
 - [x] 02-StrLst_★★_AddVector (Function)
 
 - [x] 03_If_★_RegisteredMail
-- [ ] 03_If_★★_AbbrevNum
+- [x] 03_If_★★_AbbrevNum
