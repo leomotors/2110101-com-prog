@@ -13,3 +13,17 @@
 
 - [x] 03_If_★_RegisteredMail
 - [x] 03_If_★★_AbbrevNum
+
+## งานก่อนคาบ 24/08/2022
+
+- [x] 03_If_★★_Change_of_Major (Function)
+- [] 03_if_★★_DayOfYear (Function)
+- [] 03_If_★★★_Biorhythm
+
+- [] 04_Loop_★_BisectionLog10
+- [] 04_Loop_★_MCQ
+- [] 04_Loop_★_CountWord
+- [] 04_Loop_★★_Bisection_Log102
+- [] 04_Loop_★★_RLE
+- [] 04_Loop_★★★_ZigZag2
+- [] 04_Loop_★★_PrintTriangle (Function)
