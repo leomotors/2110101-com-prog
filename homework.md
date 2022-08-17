@@ -20,10 +20,10 @@
 - [] 03_if_★★_DayOfYear (Function)
 - [] 03_If_★★★_Biorhythm
 
-- [] 04_Loop_★_BisectionLog10
+- [x] 04_Loop_★_Bisection_Log_10
 - [] 04_Loop_★_MCQ
 - [] 04_Loop_★_CountWord
-- [] 04_Loop_★★_Bisection_Log102
+- [x] 04_Loop_★★_Bisection_Log10_2
 - [] 04_Loop_★★_RLE
 - [] 04_Loop_★★★_ZigZag2
 - [] 04_Loop_★★_PrintTriangle (Function)
