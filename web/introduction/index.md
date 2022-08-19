@@ -11,7 +11,7 @@ main = do
 
 ## Material ดี ๆ ที่ควรอ่าน/ดู
 
-- [รวมเฉลยโจทย์เกรดเดอร์พร้อมคำอธิบาย (Com POG)](https://com-pog.leomotors.me)
+- [รวมเฉลยโจทย์เกรดเดอร์พร้อมคำอธิบาย (Com POG)](https://com-pog.leomotors.net)
 - [Free Python Course (ภาษาอังกฤษ by freeCodeCamp)](https://www.youtube.com/watch?v=eWRfhZUzrAc)
 - [Free Python Course (ภาษาไทย by KongRuksiam)](https://www.youtube.com/watch?v=N1fnq4MF3AE)
 

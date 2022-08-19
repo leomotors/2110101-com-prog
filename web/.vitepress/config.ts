@@ -42,7 +42,7 @@ export default defineConfig({
           },
           {
             text: "เฉลยพร้อมคำอธิบาย",
-            link: "https://com-pog.leomotors.me",
+            link: "https://com-pog.leomotors.net",
           },
         ],
       },
