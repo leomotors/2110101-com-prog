@@ -18,7 +18,7 @@
 
 - [x] 03_If_★★_Change_of_Major (Function)
 - [x] 03_if_★★_DayOfYear (Function)
-- [ ] 03_If_★★★_Biorhythm
+- [x] 03_If_★★★_Biorhythm
 
 - [x] 04_Loop_★_Bisection_Log_10
 - [x] 04_Loop_★_MCQ
