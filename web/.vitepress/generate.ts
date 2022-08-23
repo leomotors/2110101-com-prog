@@ -10,15 +10,19 @@ async function createMd(file: string) {
   fs.writeFile(
     `web/grader/${file}.md`,
     `
-  # ${file}
+# ${file}
 
   ::: warning
   โค้ดกาวมากครับ อย่าลอกเลย 😭😭😭
+
+  ทำเองเถอะนะครับ จะได้ทำข้อสอบได้ 🥲🥲🥲
   :::
 
   \`\`\`${ext == "hs" ? "haskell" : ext}
   ${(await fs.readFile(`grader/${file}`)).toString().trim()}
   \`\`\`
+
+  <!-- @include: ../.vitepress/chad.md -->
   `
   );
 
