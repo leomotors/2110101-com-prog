@@ -8,6 +8,7 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.8"
 pygame = "^2.1.2"
+ipykernel = "^6.15.2"
 
 [tool.poetry.dev-dependencies]
 autopep8 = "^1.7.0"
