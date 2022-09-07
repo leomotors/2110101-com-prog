@@ -9,6 +9,7 @@ license = "MIT"
 python = "^3.8"
 pygame = "^2.1.2"
 ipykernel = "^6.15.2"
+beautifulsoup4 = "^4.11.1"
 
 [tool.poetry.dev-dependencies]
 autopep8 = "^1.7.0"
