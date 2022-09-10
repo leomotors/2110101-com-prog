@@ -35,3 +35,9 @@
 - [x] 05List_★★_Upgrade_2
 - [x] 05List_★★★_Cut_n_Shuffle
 - [x] 05List_★★★_QueueTicket
+
+## งานก่อนคาบ 14/09/2022
+
+- [x] Part-I-★★★-Flowchart-04
+- [ ] Part-I-★★-05-Golf
+- [ ] Part-I-★★★-04-Bowling
