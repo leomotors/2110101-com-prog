@@ -39,5 +39,5 @@
 ## งานก่อนคาบ 14/09/2022
 
 - [x] Part-I-★★★-Flowchart-04
-- [ ] Part-I-★★-05-Golf
-- [ ] Part-I-★★★-04-Bowling
+- [x] Part-I-★★-05-Golf
+- [x] Part-I-★★★-04-Bowling
