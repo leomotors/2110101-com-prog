@@ -41,3 +41,9 @@
 - [x] Part-I-★★★-Flowchart-04
 - [x] Part-I-★★-05-Golf
 - [x] Part-I-★★★-04-Bowling
+
+## ก่อนคาบวันที่ 21/09/2022
+- [x] 06_Func_★★_Function_Call
+- [x] 06_Func_★★_Distance
+- [x] 06_Func_★★_FourFunctions
+- [ ] 06_Func_★★★_Refactor
