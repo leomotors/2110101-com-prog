@@ -1,10 +1,10 @@
 <table>
  <thead>
   <th>
-    <p class="table-title" align="center">People who plagiarize Com Prog HW:</p>
+    <p class="table-title" align="center">People who plagiarize Com Prog HW and cannot do exam:</p>
   </th>
   <th>
-    <p class="table-title" align="center">People who do Com Prog HW by themself:</p>
+    <p class="table-title" align="center">People who do Com Prog HW by themself and can do exam easily:</p>
   </th>
  </thead>
  <tbody>
