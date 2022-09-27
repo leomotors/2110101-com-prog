@@ -2,7 +2,7 @@
 layout: home
 
 title: Com Prog
-titleTemplate: Com Prog
+titleTemplate: Shitcode Collection
 
 hero:
   name: Com Prog

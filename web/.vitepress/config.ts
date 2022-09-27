@@ -5,7 +5,7 @@ import examItems from "./exam.g";
 
 export default defineConfig({
   lang: "th",
-  title: "Com Prog Shitpost Collection",
+  title: "Shitcode Collection",
   description:
     "Website containing my solutions for Com Prog | เอาไว้โชว์เฉย ๆ ไม่ได้ให้ลอก",
   lastUpdated: true,
