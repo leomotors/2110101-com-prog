@@ -44,7 +44,14 @@
 
 ## ก่อนคาบวันที่ 21/09/2022
 
-- [x] 06*Func*★★_Function_Call
-- [x] 06*Func*★★_Distance
-- [x] 06*Func*★★_FourFunctions
-- [x] 06*Func*★★★_Refactor
+- [x] 06_Func_★★_Function_Call
+- [x] 06_Func_★★_Distance
+- [x] 06_Func_★★_FourFunctions
+- [x] 06_Func_★★★_Refactor
+
+## ก่อนคาบวันที่ 28/09/2022
+
+- [x] 07_StrFile★_CamelCase
+- [x] 07_StrFile_★★_Anagram
+- [x] 07_StrFile_★★★_Password_Strength
+- [ ] 07_StrFile_★★★_File_Merge
