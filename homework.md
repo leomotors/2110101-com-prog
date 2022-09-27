@@ -54,4 +54,4 @@
 - [x] 07_StrFile★_CamelCase
 - [x] 07_StrFile_★★_Anagram
 - [x] 07_StrFile_★★★_Password_Strength
-- [ ] 07_StrFile_★★★_File_Merge
+- [x] 07_StrFile_★★★_File_Merge
