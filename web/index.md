@@ -27,6 +27,9 @@ hero:
     - theme: alt
       text: กราบ shalluv
       link: https://github.com/shalluv/2110101-com-prog
+    - theme: alt
+      text: Leaked Exam
+      link: https://www.reg.chula.ac.th/form/jt31.pdf
 
 features:
   - icon: 🧑‍💻
