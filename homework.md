@@ -1,40 +1,40 @@
 ## งานก่อนคาบ 17/08/2022
 
-- [x] 01*Expr*★_Stirling_Factorial
-- [x] 01*Expr*★★_Body_Surface_Area
-- [x] 01*Expr*★★★_Duration
-- [x] 01*Expr*★_Body_Surface_Area (Function)
-- [x] 01*Expr*★★_Cube_Root (Function)
+- [x] 01\_Expr\_★\_Stirling\_Factorial
+- [x] 01\_Expr\_★★\_Body\_Surface\_Area
+- [x] 01\_Expr\_★★★\_Duration
+- [x] 01\_Expr\_★\_Body\_Surface\_Area (Function)
+- [x] 01\_Expr\_★★\_Cube\_Root (Function)
 
-- [x] 02-StrLst_★★_AddVector
-- [x] 02-StrLst_★★★_Decryption
-- [x] 02-StrLst_★★★_Decimal2Fraction
-- [x] 02-StrLst_★★_AddVector (Function)
+- [x] 02-StrLst\_★★\_AddVector
+- [x] 02-StrLst\_★★★\_Decryption
+- [x] 02-StrLst\_★★★\_Decimal2Fraction
+- [x] 02-StrLst\_★★\_AddVector (Function)
 
-- [x] 03*If*★_RegisteredMail
-- [x] 03*If*★★_AbbrevNum
+- [x] 03\_If\_★\_RegisteredMail
+- [x] 03\_If\_★★\_AbbrevNum
 
 ## งานก่อนคาบ 24/08/2022
 
-- [x] 03*If*★★_Change_of_Major (Function)
-- [x] 03*if*★★_DayOfYear (Function)
-- [x] 03*If*★★★_Biorhythm
+- [x] 03\_If\_★★\_Change\_of\_Major (Function)
+- [x] 03\_if\_★★\_DayOfYear (Function)
+- [x] 03\_If\_★★★\_Biorhythm
 
-- [x] 04*Loop*★_Bisection_Log_10
-- [x] 04*Loop*★_MCQ
-- [x] 04*Loop*★_CountWord
-- [x] 04*Loop*★★_Bisection_Log10_2
-- [x] 04*Loop*★★_RLE
-- [x] 04*Loop*★★★_ZigZag2
-- [x] 04*Loop*★★_PrintTriangle (Function)
+- [x] 04\_Loop\_★\_Bisection\_Log\_10
+- [x] 04\_Loop\_★\_MCQ
+- [x] 04\_Loop\_★\_CountWord
+- [x] 04\_Loop\_★★\_Bisection\_Log10\_2
+- [x] 04\_Loop\_★★\_RLE
+- [x] 04\_Loop\_★★★\_ZigZag2
+- [x] 04\_Loop\_★★\_PrintTriangle (Function)
 
 ## งานก่อนคาบ 07/09/2022
 
-- [x] 05List_★★_UniqueCount
-- [x] 05List_★★_Upgrade
-- [x] 05List_★★_Upgrade_2
-- [x] 05List_★★★_Cut_n_Shuffle
-- [x] 05List_★★★_QueueTicket
+- [x] 05List\_★★\_UniqueCount
+- [x] 05List\_★★\_Upgrade
+- [x] 05List\_★★\_Upgrade\_2
+- [x] 05List\_★★★\_Cut\_n\_Shuffle
+- [x] 05List\_★★★\_QueueTicket
 
 ## งานก่อนคาบ 14/09/2022
 
@@ -44,14 +44,22 @@
 
 ## ก่อนคาบวันที่ 21/09/2022
 
-- [x] 06_Func_★★_Function_Call
-- [x] 06_Func_★★_Distance
-- [x] 06_Func_★★_FourFunctions
-- [x] 06_Func_★★★_Refactor
+- [x] 06\_Func\_★★\_Function\_Call
+- [x] 06\_Func\_★★\_Distance
+- [x] 06\_Func\_★★\_FourFunctions
+- [x] 06\_Func\_★★★\_Refactor
 
 ## ก่อนคาบวันที่ 28/09/2022
 
-- [x] 07_StrFile★_CamelCase
-- [x] 07_StrFile_★★_Anagram
-- [x] 07_StrFile_★★★_Password_Strength
-- [x] 07_StrFile_★★★_File_Merge
+- [x] 07\_StrFile★\_CamelCase
+- [x] 07\_StrFile\_★★\_Anagram
+- [x] 07\_StrFile\_★★★\_Password\_Strength
+- [x] 07\_StrFile\_★★★\_File\_Merge
+
+# ก่อนคาบวันที่ 12/10/2022
+
+- [x] 08\_Dict\_★\_Reverse\_n\_Keys
+- [x] 08\_Dict\_★★\_Ice\_Cream\_Sales
+- [x] 08\_Dict\_★★\_Telephone\_Directory
+- [x] 08\_Dict\_★★\_Texting
+- [x] 08\_Dict\_★★★\_Cash
