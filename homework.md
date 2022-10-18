@@ -63,3 +63,9 @@
 - [x] 08\_Dict\_★★\_Telephone\_Directory
 - [x] 08\_Dict\_★★\_Texting
 - [x] 08\_Dict\_★★★\_Cash
+
+## การบ้าน 19/10/2022
+- [x] 09\_NestedLoop\_★★\_Factorization
+- [x] 09\_NestedList\_★★\_Tiling_Puzzle
+- [x] 09\_NestedLoop\_★★★\_Pythagorean_Triple
+- [x] 09\_NestedList\_★★★\_FirstFit_BestFit
