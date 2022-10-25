@@ -69,3 +69,9 @@
 - [x] 09\_NestedList\_★★\_Tiling_Puzzle
 - [x] 09\_NestedLoop\_★★★\_Pythagorean_Triple
 - [x] 09\_NestedList\_★★★\_FirstFit_BestFit
+
+## การบ้าน 26/10/2022
+- [x] 10\_TSD\_★\_Union Intersection
+- [x] 10\_TSD\_★★_Location Analysis
+- [x] 10\_TSD\_★★★_Student Info
+- [x] 10\_TSD\_★★★_Dept Selection
