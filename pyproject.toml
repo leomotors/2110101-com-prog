@@ -13,6 +13,9 @@ beautifulsoup4 = "^4.11.1"
 pandas = "^1.5.0"
 matplotlib = "^3.6.0"
 graphviz = "^0.20.1"
+seaborn = "^0.12.1"
+tqdm = "^4.64.1"
+sklearn = "^0.0"
 
 [tool.poetry.dev-dependencies]
 autopep8 = "^1.7.0"
