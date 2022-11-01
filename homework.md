@@ -75,3 +75,11 @@
 - [x] 10\_TSD\_★★_Location Analysis
 - [x] 10\_TSD\_★★★_Student Info
 - [x] 10\_TSD\_★★★_Dept Selection
+
+## การบ้าน 2/11/2022
+- [x] 11\_NumPy\_★\_Indexing and Slicing
+- [x] 11\_NumPy\_★\_Scalar and Array
+- [x] 11\_NumPy\_★\_Logistic Regression
+- [ ] 11\_NumPy\_★★\_Slicing and Element-wise Op.
+- [ ] 11\_NumPy\_★★\_Lower than Mean
+- [ ] 11\_NumPy\_★★\_Peak Indexes
