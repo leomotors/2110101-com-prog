@@ -80,6 +80,6 @@
 - [x] 11\_NumPy\_★\_Indexing and Slicing
 - [x] 11\_NumPy\_★\_Scalar and Array
 - [x] 11\_NumPy\_★\_Logistic Regression
-- [ ] 11\_NumPy\_★★\_Slicing and Element-wise Op.
-- [ ] 11\_NumPy\_★★\_Lower than Mean
-- [ ] 11\_NumPy\_★★\_Peak Indexes
+- [x] 11\_NumPy\_★★\_Slicing and Element-wise Op.
+- [x] 11\_NumPy\_★★\_Lower than Mean
+- [x] 11\_NumPy\_★★\_Peak Indexes
