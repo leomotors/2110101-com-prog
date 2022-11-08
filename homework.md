@@ -83,3 +83,8 @@
 - [x] 11\_NumPy\_★★\_Slicing and Element-wise Op.
 - [x] 11\_NumPy\_★★\_Lower than Mean
 - [x] 11\_NumPy\_★★\_Peak Indexes
+
+# การบ้าน 9/11/2022
+- [x] Part-III-★★★½-Spiral-Square
+- [x] Part-III-★★★½-Bidding
+- [x] Part-III-★★★½-BNK48
