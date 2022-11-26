@@ -88,3 +88,9 @@
 - [x] Part-III-★★★½-Spiral-Square
 - [x] Part-III-★★★½-Bidding
 - [x] Part-III-★★★½-BNK48
+
+# การบ้าน 26/11/2022
+- [x] 12_Class-★★-Card
+- [x] 12_Class-★★-Next-Card
+- [x] 12_Class-★★★-Point-in-Rect
+- [x] 12_Class-★★★-Roman-Numeral
